@@ -39,22 +39,11 @@ This project builds a **Book Recommendation System** using **Microsoft Azure** s
 
 ---
 
-## ⚡ Getting Started
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/your-username/Book-Recommendation-System.git
-   cd Book-Recommendation-System
-   ```
-2. **Set up the Azure environment as per the steps above.**
-3. **Run the PySpark notebook in Azure Databricks** to perform EDA and build the recommendation model.
+## How to Run This Project
+1.	Clone this repository: 
+    git clone https://github.com/vraj1012/Book-Recommendation-System.git
+2.	Ensure you have access to Azure cloud services like Azure Databricks & Data Lake for cloud execution.
+3.	Open Jupyter Notebook and run the steps sequentially in the Azure Databrick Instance.
 
 ---
-
-## Future Enhancements
-- Improve recommendation quality using **collaborative filtering**.
-- Implement a **web-based UI** for users to interact with the system.
-- Optimize data storage and retrieval for **better performance**.
-  
----
-⭐ If you like this project, don't forget to star the repository! ⭐
----
+  	
